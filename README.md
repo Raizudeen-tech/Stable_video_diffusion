@@ -353,3 +353,5 @@ example = {"jpg": x,  # this is a tensor -1...1 chw
 ```
 
 where we expect images in -1...1, channel-first format.
+
+Fixed
